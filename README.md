@@ -1,7 +1,7 @@
 <img src="https://wagtail.io/static/img/wagtail.dbf60545a188.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://graphql.org/img/logo.svg" height="100px">
 <hr/>
 
-# wagtail-graphql
+# wagtail-GraphQL
 > An app to automatically add GraphQL support to a Wagtail website
 
 This [Wagtail](https://wagtail.io/) app adds [GraphQL](https://graphql.org/) types to other Wagtail apps. The objective is for this library to interact with an existing website in a generic way and with minimal effort.
